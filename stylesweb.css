@@ -1,0 +1,59 @@
+body {
+	
+	width: 95%;
+		margin-left: auto;
+		margin-right: auto;
+		background: white;
+	
+}
+
+.display-4, .container {
+	
+	text-align: center;
+		padding: 20px;
+
+
+}
+
+.jumbotron {
+	
+	
+	background: #95F9E3;
+	
+}
+
+
+.row  { 
+
+	margin-bottom: 30px;
+	
+}
+	
+.right {
+
+	
+
+float: right;
+padding: 30px;
+}
+
+
+
+
+
+.img-responsive {
+	width: 400px;
+	height: 200px;
+	
+	
+}
+
+
+  
+ footer {
+	background-color: white;
+	height: 40px;
+	text-align: center;
+
+	
+}
